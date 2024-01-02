@@ -16,9 +16,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ifinacho/FunkoShop/issues"
+    "url": "https://github.com/ifinacho/FunkoShop-CodoaCodo4.0/issues"
   },
-  "homepage": "https://github.com/ifinacho/FunkoShop#readme",
+  "homepage": "https://github.com/ifinacho/FunkoShop-CodoaCodo4.0#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cookie-session": "^2.0.0",
