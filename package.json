@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mauriGaray/funkoshop.git"
+    "url": "git+https://github.com/ifinacho/FunkoShop.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mauriGaray/funkoshop/issues"
+    "url": "https://github.com/ifinacho/FunkoShop/issues"
   },
-  "homepage": "https://github.com/mauriGaray/funkoshop#readme",
+  "homepage": "https://github.com/ifinacho/FunkoShop#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cookie-session": "^2.0.0",
