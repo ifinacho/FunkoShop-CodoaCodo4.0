@@ -566,7 +566,7 @@ nav {
 .create__form__ul__li--typography {
   color: #000;
   font-family: var(--base-font);
-  font-size: var(--font-small);
+  font-size: var(--font-medium);
   font-style: normal;
   font-weight: 300;
   line-height: normal;
@@ -581,21 +581,22 @@ nav {
   gap: var(--spacing-20);
 }
 .create__form--line {
-  color: #b9b9b9;
+  color: #30343f;
   text-align: right;
   font-family: Inter;
-  font-size: 1.125rem;
+  font-size: var(--font-small);
   font-style: normal;
   font-weight: 400;
   line-height: normal;
   letter-spacing: 0.045rem;
   border: none;
   border-bottom: 1px solid #f33;
+  height: var(--spacing-28);
 }
 .create__form--btn {
   background: #f33;
   color: #fff;
-  margin-right: 2.13rem;
+  margin-right: var(--spacing-28);
   width: 14rem;
   height: 4rem;
   flex-shrink: 0;
@@ -606,6 +607,9 @@ nav {
   line-height: normal;
   letter-spacing: 0.06rem;
   border: none;
+}
+#textarea{
+  font-size: var(--spacing-16);
 }
 /* Editar item */
 
@@ -627,11 +631,11 @@ nav {
   display: flex;
   flex-direction: column;
   row-gap: var(--spacing-28);
-  margin: var(--spacing-20) 0;
+  margin: var(--spacing-36) 0;
   align-items: center;
 }
 .register__form--item {
-  align-self: flex-start;
+  align-self: center;
 }
 .register__main__form--container {
   max-width: 60rem;

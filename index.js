@@ -46,4 +46,4 @@ app.use(error500);
 
 //servidor
 
-app.listen(PORT, () => console.log(`Server is listening on localhost:${PORT}`));
+app.listen(PORT, () => console.log(`Server is listening on http://localhost:${PORT}`));
